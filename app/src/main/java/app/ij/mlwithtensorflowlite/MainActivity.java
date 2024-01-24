@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
                     maxPos = i;
                 }
             }
-            String[] classes = {"Apple", "Banana", "Orange"};
+            String[] classes = {"Normal", "Stone"};
             result.setText(classes[maxPos]);
 
             // Releases model resources if no longer used.

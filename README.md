@@ -10,4 +10,4 @@ We'll code a Convolutional Neural Network (CNN) model with TensorFlow, then depl
 <p align="center">
 
 
-"# Mini" 
+ 
